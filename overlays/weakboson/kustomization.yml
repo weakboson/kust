@@ -1,0 +1,10 @@
+bases:
+- ../../base
+
+namePrefix: weakboson-
+commonLabels:
+  developer: weakboson
+
+images:
+  - name: rails
+    newTag: "weakboson-xxxxx"
