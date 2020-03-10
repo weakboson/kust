@@ -1,0 +1,10 @@
+bases:
+- ../../base
+
+namePrefix: gluon-
+commonLabels:
+  developer: gluon
+
+images:
+  - name: rails
+    newTag: "gluon-yyyyy"
